@@ -4,3 +4,4 @@ Test git file - test
 4th line baaaaaaaaaaaaaaaaaaaaaaaaaa
 5th line -bbbbbbbbb
 6th line
+7th line
