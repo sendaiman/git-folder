@@ -5,4 +5,4 @@ Test git file - test
 5th line -bbbbbbbbb
 6th line
 7th line
-removed 8th line, added 9th line
+removed line again then added ba ba ba ba
