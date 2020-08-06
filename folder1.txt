@@ -7,3 +7,25 @@ Test git file - test
 7th line
 removed line again then added ba ba ba ba
 8th line
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+branch 2 
+bla ga ga ga ga
