@@ -1,0 +1,10 @@
+Test git file - test
+2nd line 
+3rd line
+4th line baaaaaaaaaaaaaaaaaaaaaaaaaa
+5th line -bbbbbbbbb
+6th line
+7th line
+removed line again then added ba ba ba ba
+8th line
+completely new line written in folder2
