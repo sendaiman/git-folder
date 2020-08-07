@@ -27,9 +27,7 @@ branch 3
 bla lfffffffff
 
 
-
-<<<<<<< HEAD
 blaaaaaaaaa
-=======
+
 Blaaaaaaaaa
->>>>>>> privatebranch2
+
