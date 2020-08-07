@@ -28,4 +28,8 @@ bla lfffffffff
 
 
 
+<<<<<<< HEAD
 blaaaaaaaaa
+=======
+Blaaaaaaaaa
+>>>>>>> privatebranch2
